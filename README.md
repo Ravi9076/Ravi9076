@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying B.Tech(2019-23) at Indian Institute of Information Technology Bhagalpur.
 - 🌱 &nbsp; Learning more about Data Structures & Algorithms.
-- ✍️ &nbsp; Pursuing Freelancing and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; my hobies are playing cricket and listing music.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
