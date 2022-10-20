@@ -34,15 +34,15 @@
 
 <br/>
 
-<h3>
+<p>
+    <img align="center" src="https://leetcode.card.workers.dev/?username=Rk_yadav&theme=auto" alt="Rk_yadav" />
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ravi-yadav-098939197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Yadav-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ravi.kuyadav/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ravi.kuyadav-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:raviiit872000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raviiit872000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<p>
-    <img align="center" src="https://leetcode.card.workers.dev/?username=Rk_yadav&theme=auto" alt="Rk_yadav" />
-</p>
+
 
 ⭐️ From [Ravi9076](https://github.com/Ravi9076)
