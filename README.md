@@ -33,7 +33,11 @@
 </a>
 
 <br/>
-
+<a href="https://www.leetcode.com/dksmuz7" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="dksmuz7" height="30" width="40" />
+    </a>
 <p>
     <img align="center" src="https://leetcode.card.workers.dev/?username=Rk_yadav&theme=auto" alt="Rk_yadav" />
 </p>
